@@ -6,8 +6,8 @@ The program allows users to add books, view books, issue books, and return books
 
 
 
+<img width="1829" height="1022" alt="Screenshot from 2025-11-19 02-34-41" src="https://github.com/user-attachments/assets/53da0ef6-e874-43f0-a4db-3cda96d48f23" />
 
-![Screenshot from 2025-11-19 02-34-41.png](/home/kishoara/Pictures/Screenshots/Screenshot%20from%202025-11-19%2002-34-41.png)
 
 ---
 
