@@ -6,7 +6,7 @@ The program allows users to add books, view books, issue books, and return books
 
 
 
-<img width="1829" height="1022" alt="Screenshot from 2025-11-19 02-34-41" src="https://github.com/user-attachments/assets/53da0ef6-e874-43f0-a4db-3cda96d48f23" />
+<img width="1829" height="1022" alt="Library Management System" src="https://github.com/user-attachments/assets/53da0ef6-e874-43f0-a4db-3cda96d48f23" />
 
 
 ---
